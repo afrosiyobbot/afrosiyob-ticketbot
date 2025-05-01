@@ -1,0 +1,2 @@
+# afrosiyob-ticketbot
+bot
